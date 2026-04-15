@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'OpenAI'
+author 'sx'
 description 'Custom attached chain system for QBCore'
 version '1.0.0'
 
