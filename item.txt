@@ -1,0 +1,38 @@
+['gold_chain'] = {
+    name = 'gold_chain',
+    label = 'Gold Chain',
+    weight = 100,
+    type = 'item',
+    image = 'gold_chain.png',
+    unique = true,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'A shiny gold chain'
+},
+
+['diamond_chain'] = {
+    name = 'diamond_chain',
+    label = 'Diamond Chain',
+    weight = 100,
+    type = 'item',
+    image = 'diamond_chain.png',
+    unique = true,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'A flashy diamond chain'
+},
+
+['sixlogy_chain'] = {
+    name = 'sixlogy_chain',
+    label = 'Sixlogy Chain',
+    weight = 100,
+    type = 'item',
+    image = 'sixlogy_chain.png',
+    unique = true,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'A custom Sixlogy chain'
+},
